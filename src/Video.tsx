@@ -9,8 +9,8 @@ export const RemotionVideo: React.FC = () => {
 				component={MyComposition}
 				durationInFrames={60}
 				fps={30}
-				width={1280}
-				height={720}
+				width={944}
+				height={2044}
 			/>
 		</>
 	);
